@@ -5,8 +5,7 @@
 ---
 
 ## About Me
-
-Soy estudiante de Ingeniería en Software apasionado por el desarrollo full-stack y las tecnologías emergentes. Me especializo en crear soluciones web modernas y eficientes, con experiencia tanto en frontend como backend.
+I'm a Software Engineering student passionate about full-stack development and emerging technologies. I specialize in creating modern and efficient web solutions, with experience in both frontend and backend.
 
 ---
 
@@ -39,9 +38,6 @@ Docker • Git • GitHub • Version Control
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edison02m&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edison02m&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---

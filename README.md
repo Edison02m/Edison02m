@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I'm a Software Engineering student passionate about full-stack development and emerging technologies. I specialize in creating modern and efficient web solutions, with experience in both frontend and backend.
+I'm a Software Engineering  passionate about full-stack development and emerging technologies. I specialize in creating modern and efficient web solutions, with experience in both frontend and backend.
 
 ---
 

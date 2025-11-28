@@ -1,71 +1,40 @@
-# Edison Azogue M. 👨‍💻
+# Edison Azogue
 
-**Software Engineering Student** • **Ecuador** 🇪🇨
+**Software Engineer** | Full-Stack Developer | Ecuador 🇪🇨
 
----
-
-## About Me
-I'm a Software Engineering  passionate about full-stack development and emerging technologies. I specialize in creating modern and efficient web solutions, with experience in both frontend and backend.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edison-azogue-96bb93186)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asogueedison@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-```
-HTML5 • CSS3 • JavaScript • React • Astro
-Tailwind CSS • Bootstrap • Flask (Templates)
-```
+I'm a Software Engineering passionate about full-stack development and emerging technologies. I specialize in creating modern and efficient web solutions, with experience in both frontend and backend.
 
-### Backend
-```
-Node.js • Express.js • Python • .NET
-RESTful APIs • Server-side Development
-```
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs,c,html,css)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)](https://skillicons.dev)
 
 ### Databases
-```
-PostgreSQL • MySQL • SQL Server • CouchDB
-Database Design • Query Optimization
-```
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlserver)](https://skillicons.dev)
 
-### Languages & Tools
-```
-C# • C++ • C • Visual Basic
-Docker • Git • GitHub • Version Control
-```
+### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edison02m&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edison02m&theme=default&hide_border=true&layout=compact)
 
 ---
 
-##  What I'm Working On
+## 📫 Contact
 
--  Completing my degree in Software Engineering
--  Learning new technologies and frameworks
--  Developing personal projects 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison.azogue@espoch.edu.ec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://edison-azogue-portafolio.vercel.app/)
-
----
-
-### 💭 Quote
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
----
-
-<div align="center">
-  
-**Thanks for visiting my profile!** ⭐
-
-*Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities.*
-
-</div>
+📧 asogueedison@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/edison-azogue-96bb93186)
